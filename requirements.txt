@@ -1,0 +1,2 @@
+streamlit==1.22.0
+streamlit_chat_media==0.0.4
